@@ -77,3 +77,11 @@ Please [add yourself](https://github.com/toplap/livecoders/edit/master/README.md
   - twitter: [davidpdrsn](https://twitter.com/davidpdrsn)
   - audio: n/a
   - video: https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ
+
+## Dan Aston
+  - website: https://danaston.nz
+  - aliases: vision-chips
+  - location: Wellington, New Zealand
+  - livecoding: GLSL, js
+  - twitter: https://twitter.com/DanAstonNZ
+  - github: www.github.com/vsnchips
